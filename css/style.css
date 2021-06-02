@@ -1,0 +1,102 @@
+.jumbotron {
+  background-image: url(../images/jumbotronimagerunner.png);
+  height: 900px;
+  width: 1440px;
+}
+#logomain {
+  width: 550px;
+  position: relative;
+  margin-left: 200px;
+  margin-top: -1200px;
+}
+
+.navigation {
+  padding: 20px;
+}
+.navigation a {
+  color: black;
+  font-size: 25px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  text-shadow: rgb(107, 107, 107) 0.5px 0.5px 5px;
+}
+.navigation a:hover {
+  color: rgb(109, 184, 12);
+}
+.jumbotron-fluid {
+  background-image: url(../images/navheader.png);
+  width: 1440px;
+  height: 290px;
+}
+
+#navlogo {
+  width: 150px;
+  margin-top: -7px;
+}
+#videosection {
+  background-color: rgb(94, 166, 179);
+  padding: 50px;
+}
+
+.johnmuir {
+  float: right;
+  position: relative;
+  margin-right: 150px;
+  margin-top: 70px;
+}
+
+.trailtext {
+  padding-top: 20px;
+}
+
+#runnerpink {
+  width: 500px;
+  float: right;
+  position: relative;
+  margin-right: 100px;
+}
+
+#trees {
+  width: 500px;
+  float: left;
+  padding: 20px;
+}
+
+.trailtext2 {
+  padding-right: 50px;
+  padding-top: 20px;
+}
+
+#footerimage {
+  width: 1440px;
+}
+
+.whitespace {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.card {
+  position: relative;
+  margin-left: 100px;
+}
+.card-body {
+  background-color: rgb(94, 166, 179);
+}
+
+#card2 {
+  position: relative;
+  margin-left: 575px;
+  margin-top: -418px;
+}
+#card3 {
+  position: relative;
+  margin-left: 1050px;
+  margin-top: -520px;
+}
+
+#newcolor {
+  background-color: rgb(109, 184, 12);
+}
+
+.trailtext2 {
+  background-color: rgb(94, 166, 179);
+}
